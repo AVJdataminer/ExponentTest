@@ -221,8 +221,9 @@ Let's first identify our response variable; in this case it is the '4-year resal
 * What is the size of the resulting dataframe?
 
 ### Missing and NA Values: Programming Question
+[![Open this code in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sshS662wG4kdLLs3GRSQ2hrTCu_bGfnI)
 
-Change the below code to drop only the observations with missing values and not the entire variable with missing values?
+Change the below code in the Colab notebook cell to drop only the observations with missing values and not the entire variable with missing values?
 
 
 ```
