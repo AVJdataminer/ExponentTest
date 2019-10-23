@@ -5,7 +5,7 @@
 
 # Data Loading, Data Wrangling, and Quality Checks
 
-#### Which Vehicle should we add to our fleet?
+### How would you pre-process this data set to remove missing values?
 
 You are a data scientist at a used vehicle dealer and your manager wants to know which vehicles are most likely to have a higher four-year resale value. You have access to a vehicle data set with many attributes associated with valuation. We can build a predictive model to determine which vehicles have higher 4-year resale values. As is often the case we need to perform pre-processing steps to handle the data before we are ready to build our predictive model. 
 
@@ -165,7 +165,7 @@ df.head()
 
 ## Data Wrangling
 
-#### Missing and NA Values: Data Science Knowledge Question
+### Missing and NA Values: Data Science Knowledge Question
 How should we handle the NA values in this cars dataset?  
 
 Please include how we decide what to do with the missing data as well as what additional information we may want to review or consider in the process. 
